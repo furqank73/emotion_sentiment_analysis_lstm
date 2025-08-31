@@ -300,3 +300,4 @@ for i, example in enumerate(examples):
             st.session_state.user_input = example
             # Rerun the app to update the text area
             st.rerun()
+
