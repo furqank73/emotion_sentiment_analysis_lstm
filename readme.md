@@ -77,11 +77,5 @@ For example:
 
 ---
 
-
-## Acknowledgements
-
-* Built with **Streamlit**, **TensorFlow/Keras**, **Plotly**, **scikit-learn**.
-* **furqank73** — for creating the initial model and repository. ([GitHub][1])
-
 ```
 
